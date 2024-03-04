@@ -1,0 +1,23 @@
+/*
+revisao da aula passada sobre nodejs
+
+var n1 = 10
+var n2 = "Teste"
+
+if( n1 < 10){
+    console.log("N1 menor que 10")
+
+}else{
+    console.log("N1 é igual ou maior que 10")
+}
+
+for(var n3 = 0; n3 <= 10; n3++){
+    console.log("N3: " + n3)
+}
+
+while(n4 <= 10){
+    conlose.log("N4: " + n4)
+    n4++
+}
+
+*/
